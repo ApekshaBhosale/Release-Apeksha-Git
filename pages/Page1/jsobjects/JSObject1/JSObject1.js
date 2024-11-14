@@ -5,7 +5,7 @@ export default {
 		return "hey!";
 	},
 	async myFun2 () {
-		return Api1.run();
+		return Query1.run()
 	},
 	myFun11 () {
 		return "hey!";
